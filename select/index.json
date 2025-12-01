@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Mama",
+  "base_artist": "Jonas Blue & William Singe",
+  "createdAt": "2025-12-01T12:00:22.824963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fore She Was Mama",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/01_Fore_She_Was_Mama_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God, Your Mama, and Me (Commentary)",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/02_God,_Your_Mama,_and_Me_(Commentary)_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "God, Your Mama, And Me",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/03_God,_Your_Mama,_And_Me_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hot Mama",
+      "artist": "Trace Adkins",
+      "has_synced": true,
+      "path": "select/04_Hot_Mama_Trace_Adkins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Called Mama",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/05_I_Called_Mama_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm the Only Hell (Mama Ever Raised)",
+      "artist": "Johnny Paycheck",
+      "has_synced": true,
+      "path": "select/06_I'm_the_Only_Hell_(Mama_Ever_Raised)_Johnny_Paycheck.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jesus and Mama (Remastered Album Version)",
+      "artist": "Confederate Railroad",
+      "has_synced": false,
+      "path": "select/07_Jesus_and_Mama_(Remastered_Album_Version)_Confederate_Railroad.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jesus and Mama (Remastered Version)",
+      "artist": "Confederate Railroad",
+      "has_synced": false,
+      "path": "select/08_Jesus_and_Mama_(Remastered_Version)_Confederate_Railroad.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mama Don't Get Dressed Up for Nothing",
+      "artist": "Brooks & Dunn",
+      "has_synced": false,
+      "path": "select/09_Mama_Don't_Get_Dressed_Up_for_Nothing_Brooks_&_Dunn.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mama He's Crazy",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/10_Mama_He's_Crazy_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mama Sang A Song",
+      "artist": "Bill Anderson",
+      "has_synced": false,
+      "path": "select/11_Mama_Sang_A_Song_Bill_Anderson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mama Tried",
+      "artist": "Merle Haggard & The Strangers",
+      "has_synced": true,
+      "path": "select/12_Mama_Tried_Merle_Haggard_&_The_Strangers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mama Tried",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/13_Mama_Tried_Merle_Haggard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ma maison c'est ta maison",
+      "artist": "Garou/Hélène Ségara",
+      "has_synced": false,
+      "path": "select/pl_01_Ma_maison_c'est_ta_maison_Garou_Hélène_Ségara.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Mama found…\"Forever\"",
+      "artist": "Garou/Hélène Ségara",
+      "has_synced": false,
+      "path": "select/pl_02_Mama_found..._Forever_Garou_Hélène_Ségara.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "MAMACITA-AYAYA-",
+      "artist": "Garou/Hélène Ségara",
+      "has_synced": false,
+      "path": "select/pl_03_MAMACITA-AYAYA-_Garou_Hélène_Ségara.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "mama",
+      "artist": "Garou/Hélène Ségara",
+      "has_synced": false,
+      "path": "select/pl_04_mama_Garou_Hélène_Ségara.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Mama Says",
+      "artist": "Garou/Hélène Ségara",
+      "has_synced": false,
+      "path": "select/pl_05_Mama_Says_Garou_Hélène_Ségara.txt"
+    }
+  ]
+}
